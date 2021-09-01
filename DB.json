@@ -1,0 +1,568 @@
+{
+    "flights": [
+        {
+            "originAirport": {
+                "name": "Istanbul Airport",
+                "code": "IST",
+                "city": {
+                    "code": "IST",
+                    "name": "Istanbul"
+                },
+                "country": {
+                    "code": "TR",
+                    "name": "Turkey"
+                }
+            },
+            "destinationAirport": {
+                "name": "Antalya Airport",
+                "code": "AYT",
+                "city": {
+                    "code": "AYT",
+                    "name": "Antalya"
+                },
+                "country": {
+                    "code": "TR",
+                    "name": "Turkey"
+                }
+            },
+            "arrivalDateTimeDisplay": "01:15",
+            "departureDateTimeDisplay": "02:45",
+            "flightDuration": "1s 30d",
+            "fareCategories": {
+                "BUSINESS": {
+                    "subcategories": [
+                        {
+                            "brandCode": "ecoFly",
+                            "price": {
+                                "amount": 400.00,
+                                "currency": "TRY"
+                            },
+                            "order": 1,
+                            "status": "AVAILABLE",
+                            "rights": [
+                                "20 kg Bagaj",
+                                "Ucresiz Yemek Secimi"
+                            ]
+                        },
+                        {
+                            "brandCode": "extraFly",
+                            "price": {
+                                "amount": 500.00,
+                                "currency": "TRY"
+                            },
+                            "order": 2,
+                            "status": "AVAILABLE",
+                            "rights": [
+                                "30 kg Bagaj",
+                                "Standart Koltuk Secimi",
+                                "Ucresiz Yemek Secimi"
+                            ]
+                        },
+                        {
+                            "brandCode": "primeFly",
+                            "price": {
+                                "amount": 800.99,
+                                "currency": "TRY"
+                            },
+                            "order": 3,
+                            "status": "AVAILABLE",
+                            "rights": [
+                                "50 kg Bagaj",
+                                "Standart Koltuk Secimi",
+                                "Ucretsiz Degisiklik",
+                                "Ucresiz Yemek Secimi"
+                            ]
+                        }
+                    ]
+                },
+                "ECONOMY": {
+                    "subcategories": [
+                        {
+                            "brandCode": "ecoFly",
+                            "price": {
+                                "amount": 242.00,
+                                "currency": "TRY"
+                            },
+                            "order": 1,
+                            "status": "AVAILABLE",
+                            "rights": [
+                                "15 kg Bagaj"
+                            ]
+                        },
+                        {
+                            "brandCode": "extraFly",
+                            "price": {
+                                "amount": 290.00,
+                                "currency": "TRY"
+                            },
+                            "order": 2,
+                            "status": "AVAILABLE",
+                            "rights": [
+                                "20 kg Bagaj",
+                                "Standart Koltuk Secimi"
+                            ]
+                        },
+                        {
+                            "brandCode": "primeFly",
+                            "price": {
+                                "amount": 351.99,
+                                "currency": "TRY"
+                            },
+                            "order": 3,
+                            "status": "AVAILABLE",
+                            "rights": [
+                                "25 kg Bagaj",
+                                "Standart Koltuk Secimi",
+                                "Ucretsiz Degisiklik"
+                            ]
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "originAirport": {
+                "name": "Istanbul Airport",
+                "code": "IST",
+                "city": {
+                    "code": "IST",
+                    "name": "Istanbul"
+                },
+                "country": {
+                    "code": "TR",
+                    "name": "Turkey"
+                }
+            },
+            "destinationAirport": {
+                "name": "Antalya Airport",
+                "code": "AYT",
+                "city": {
+                    "code": "AYT",
+                    "name": "Antalya"
+                },
+                "country": {
+                    "code": "TR",
+                    "name": "Turkey"
+                }
+            },
+            "arrivalDateTimeDisplay": "09:50",
+            "departureDateTimeDisplay": "11:20",
+            "flightDuration": "1s 30d",
+            "fareCategories": {
+                "BUSINESS": {
+                    "subcategories": [
+                        {
+                            "brandCode": "ecoFly",
+                            "price": {
+                                "amount": 676.00,
+                                "currency": "TRY"
+                            },
+                            "order": 1,
+                            "status": "ERROR",
+                            "rights": [
+                                "20 kg Bagaj",
+                                "Ucresiz Yemek Secimi"
+                            ]
+                        },
+                        {
+                            "brandCode": "extraFly",
+                            "price": {
+                                "amount": 800.00,
+                                "currency": "TRY"
+                            },
+                            "order": 2,
+                            "status": "AVAILABLE",
+                            "rights": [
+                                "30 kg Bagaj",
+                                "Standart Koltuk Secimi",
+                                "Ucresiz Yemek Secimi"
+                            ]
+                        },
+                        {
+                            "brandCode": "primeFly",
+                            "price": {
+                                "amount": 1200.99,
+                                "currency": "TRY"
+                            },
+                            "order": 3,
+                            "status": "AVAILABLE",
+                            "rights": [
+                                "50 kg Bagaj",
+                                "Standart Koltuk Secimi",
+                                "Ucretsiz Degisiklik",
+                                "Ucresiz Yemek Secimi"
+                            ]
+                        }
+                    ]
+                },
+                "ECONOMY": {
+                    "subcategories": [
+                        {
+                            "brandCode": "ecoFly",
+                            "price": {
+                                "amount": 250.00,
+                                "currency": "TRY"
+                            },
+                            "order": 1,
+                            "status": "AVAILABLE",
+                            "rights": [
+                                "15 kg Bagaj"
+                            ]
+                        },
+                        {
+                            "brandCode": "extraFly",
+                            "price": {
+                                "amount": 380.00,
+                                "currency": "TRY"
+                            },
+                            "order": 2,
+                            "status": "AVAILABLE",
+                            "rights": [
+                                "20 kg Bagaj",
+                                "Standart Koltuk Secimi"
+                            ]
+                        },
+                        {
+                            "brandCode": "primeFly",
+                            "price": {
+                                "amount": 470.99,
+                                "currency": "TRY"
+                            },
+                            "order": 3,
+                            "status": "ERROR",
+                            "rights": [
+                                "25 kg Bagaj",
+                                "Standart Koltuk Secimi",
+                                "Ucretsiz Degisiklik"
+                            ]
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "originAirport": {
+                "name": "Istanbul Airport",
+                "code": "IST",
+                "city": {
+                    "code": "IST",
+                    "name": "Istanbul"
+                },
+                "country": {
+                    "code": "TR",
+                    "name": "Turkey"
+                }
+            },
+            "destinationAirport": {
+                "name": "Antalya Airport",
+                "code": "AYT",
+                "city": {
+                    "code": "AYT",
+                    "name": "Antalya"
+                },
+                "country": {
+                    "code": "TR",
+                    "name": "Turkey"
+                }
+            },
+            "arrivalDateTimeDisplay": "11:25",
+            "departureDateTimeDisplay": "12:55",
+            "flightDuration": "1s 30d",
+            "fareCategories": {
+                "BUSINESS": {
+                    "subcategories": [
+                        {
+                            "brandCode": "ecoFly",
+                            "price": {
+                                "amount": 692.00,
+                                "currency": "TRY"
+                            },
+                            "order": 1,
+                            "status": "AVAILABLE",
+                            "rights": [
+                                "20 kg Bagaj",
+                                "Ucresiz Yemek Secimi"
+                            ]
+                        },
+                        {
+                            "brandCode": "extraFly",
+                            "price": {
+                                "amount": 950.00,
+                                "currency": "TRY"
+                            },
+                            "order": 2,
+                            "status": "AVAILABLE",
+                            "rights": [
+                                "30 kg Bagaj",
+                                "Standart Koltuk Secimi",
+                                "Ucresiz Yemek Secimi"
+                            ]
+                        },
+                        {
+                            "brandCode": "primeFly",
+                            "price": {
+                                "amount": 1400.00,
+                                "currency": "TRY"
+                            },
+                            "order": 3,
+                            "status": "AVAILABLE",
+                            "rights": [
+                                "50 kg Bagaj",
+                                "Standart Koltuk Secimi",
+                                "Ucretsiz Degisiklik",
+                                "Ucresiz Yemek Secimi"
+                            ]
+                        }
+                    ]
+                },
+                "ECONOMY": {
+                    "subcategories": [
+                        {
+                            "brandCode": "ecoFly",
+                            "price": {
+                                "amount": 368.00,
+                                "currency": "TRY"
+                            },
+                            "order": 1,
+                            "status": "AVAILABLE",
+                            "rights": [
+                                "15 kg Bagaj"
+                            ]
+                        },
+                        {
+                            "brandCode": "extraFly",
+                            "price": {
+                                "amount": 425.00,
+                                "currency": "TRY"
+                            },
+                            "order": 2,
+                            "status": "AVAILABLE",
+                            "rights": [
+                                "20 kg Bagaj",
+                                "Standart Koltuk Secimi"
+                            ]
+                        },
+                        {
+                            "brandCode": "primeFly",
+                            "price": {
+                                "amount": 580.99,
+                                "currency": "TRY"
+                            },
+                            "order": 3,
+                            "status": "ERROR",
+                            "rights": [
+                                "25 kg Bagaj",
+                                "Standart Koltuk Secimi",
+                                "Ucretsiz Degisiklik"
+                            ]
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "originAirport": {
+                "name": "Istanbul Airport",
+                "code": "IST",
+                "city": {
+                    "code": "IST",
+                    "name": "Istanbul"
+                },
+                "country": {
+                    "code": "TR",
+                    "name": "Turkey"
+                }
+            },
+            "destinationAirport": {
+                "name": "Antalya Airport",
+                "code": "AYT",
+                "city": {
+                    "code": "AYT",
+                    "name": "Antalya"
+                },
+                "country": {
+                    "code": "TR",
+                    "name": "Turkey"
+                }
+            },
+            "arrivalDateTimeDisplay": "18:20",
+            "departureDateTimeDisplay": "19:50",
+            "flightDuration": "1s 30d",
+            "fareCategories": {
+                "BUSINESS": {
+                    "subcategories": [
+                        {
+                            "brandCode": "ecoFly",
+                            "price": {
+                                "amount": 670.00,
+                                "currency": "TRY"
+                            },
+                            "order": 1,
+                            "status": "AVAILABLE",
+                            "rights": [
+                                "20 kg Bagaj",
+                                "Ucresiz Yemek Secimi"
+                            ]
+                        },
+                        {
+                            "brandCode": "extraFly",
+                            "price": {
+                                "amount": 956.00,
+                                "currency": "TRY"
+                            },
+                            "order": 2,
+                            "status": "AVAILABLE",
+                            "rights": [
+                                "30 kg Bagaj",
+                                "Standart Koltuk Secimi",
+                                "Ucresiz Yemek Secimi"
+                            ]
+                        },
+                        {
+                            "brandCode": "primeFly",
+                            "price": {
+                                "amount": 1358.00,
+                                "currency": "TRY"
+                            },
+                            "order": 3,
+                            "status": "AVAILABLE",
+                            "rights": [
+                                "50 kg Bagaj",
+                                "Standart Koltuk Secimi",
+                                "Ucretsiz Degisiklik",
+                                "Ucresiz Yemek Secimi"
+                            ]
+                        }
+                    ]
+                },
+                "ECONOMY": {
+                    "subcategories": [
+                        {
+                            "brandCode": "ecoFly",
+                            "price": {
+                                "amount": 195.00,
+                                "currency": "TRY"
+                            },
+                            "order": 1,
+                            "status": "AVAILABLE",
+                            "rights": [
+                                "15 kg Bagaj"
+                            ]
+                        },
+                        {
+                            "brandCode": "extraFly",
+                            "price": {
+                                "amount": 290.50,
+                                "currency": "TRY"
+                            },
+                            "order": 2,
+                            "status": "AVAILABLE",
+                            "rights": [
+                                "20 kg Bagaj",
+                                "Standart Koltuk Secimi"
+                            ]
+                        },
+                        {
+                            "brandCode": "primeFly",
+                            "price": {
+                                "amount": 458.00,
+                                "currency": "TRY"
+                            },
+                            "order": 3,
+                            "status": "AVAILABLE",
+                            "rights": [
+                                "25 kg Bagaj",
+                                "Standart Koltuk Secimi",
+                                "Ucretsiz Degisiklik"
+                            ]
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    
+    "city":{
+        "1": "ADANA",
+        "2": "ADIYAMAN",
+        "3": "AFYONKARAHİSAR",
+        "4": "AĞRI",
+        "5": "AMASYA",
+        "6": "ANKARA",
+        "7": "ANTALYA",
+        "8": "ARTVİN",
+        "9": "AYDIN",
+        "10": "BALIKESİR",
+        "11": "BİLECİKK",
+        "12": "BİNGÖL",
+        "13": "BİTLİS",
+        "14": "BOLU",
+        "15": "BURDUR",
+        "16": "BURSA",
+        "17": "ÇANAKKALE",
+        "18": "ÇANKIRI",
+        "19": "ÇORUM",
+        "20": "DENİZLİ",
+        "21": "DİYARBAKIR",
+        "22": "EDİRNE",
+        "23": "ELAZIĞ",
+        "24": "ERZİNCAN",
+        "25": "ERZURUM",
+        "26": "ESKİŞEHİR",
+        "27": "GAZİANTEP",
+        "28": "GİRESUN",
+        "29": "GÜMÜŞHANE",
+        "30": "HAKKARİ",
+        "31": "HATAY",
+        "32": "ISPARTA",
+        "33": "MERSİN",
+        "34": "ISTANBUL",
+        "35": "İZMİR",
+        "36": "KARS",
+        "37": "KASTAMONU",
+        "38": "KAYSERİ",
+        "39": "KIRKLARELİ",
+        "40": "KIRŞEHİR",
+        "41": "KOCAELİ",
+        "42": "KONYA",
+        "43": "KÜTAHYA",
+        "44": "MALATYA",
+        "45": "MANİSA",
+        "46": "KAHRAMANMARAŞ",
+        "47": "MARDİN",
+        "48": "MUĞLA",
+        "49": "MUŞ",
+        "50": "NEVŞEHİR",
+        "51": "NİĞDE",
+        "52": "ORDU",
+        "53": "RİZE",
+        "54": "SAKARYA",
+        "55": "SAMSUN",
+        "56": "SİİRT",
+        "57": "SİNOP",
+        "58": "SİVAS",
+        "59": "TEKİRDAĞ",
+        "60": "TOKAT",
+        "61": "TRABZON",
+        "62": "TUNCELİ",
+        "63": "ŞANLIURFA",
+        "64": "UŞAK",
+        "65": "VAN",
+        "66": "YOZGAT",
+        "67": "ZONGULDAK",
+        "68": "AKSARAY",
+        "69": "BAYBURT",
+        "70": "KARAMAN",
+        "71": "KIRIKKALE",
+        "72": "BATMAN",
+        "73": "ŞIRNAK",
+        "74": "BARTIN",
+        "75": "ARDAHAN",
+        "76": "IĞDIR",
+        "77": "YALOVA",
+        "78": "KARABüK",
+        "79": "KİLİS",
+        "80": "OSMANİYE",
+        "81": "DÜZCE"
+    }
+}
